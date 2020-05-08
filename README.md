@@ -14,7 +14,7 @@ These instructions will get you a copy of the project up and running on your loc
   - KGradientPanel-master:
     To be able to create a panel with gradient-background.
     
- - KControls-master:
+  -  KControls-master:
     To be able to create rounded-corner buttons with gradient-background and other advanced coloring options.
     
 - Run the project on a NetBeans IDE.
@@ -24,7 +24,7 @@ These instructions will get you a copy of the project up and running on your loc
 These are the tools and framewroks used in this project (MUST have):
 
 - Netbeans IDE (one of the latest versions is preferred).
-- The two folders (KGradientPanel-master &  KControls-master).
+- The two JAR files: (KGradientPanel-master &  KControls-master).
 
 
 # How to add the JAR files
